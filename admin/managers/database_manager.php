@@ -15,7 +15,7 @@ include_once('configuration/config.php');
 // }
 
 function createConnection() {
-    $host = "127.0.0.1";   
+    $host = "beafbai.com";   
     $username = "root";
     $password = "root";    
     $database = "beafbai_db1";
